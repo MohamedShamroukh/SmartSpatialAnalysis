@@ -1,4 +1,4 @@
-# smartspatiallocalcriteria
+# smart spatial analysis algorithm (local and national criteria)
 smart spatial analysis algorithm (local and national criteria)
 ![image](https://user-images.githubusercontent.com/67192794/147089228-331c6b85-0759-41b1-9510-b72cfd8f6ff2.png)
 Algorithm structure 
